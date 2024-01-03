@@ -1,4 +1,4 @@
-<h1>Great LinkedIn Learning Course</h1>
+
 
 <!DOCTYPE html>
 <html lang="en">
